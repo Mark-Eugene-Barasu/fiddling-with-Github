@@ -50,3 +50,5 @@ temporarily save changes that you're not ready to commit
 
 ## git merge <branch_name> 
 combine all branch changes into one branch.
+
+<!-- this are the most commonly used ones -->
