@@ -1,5 +1,5 @@
 console.log("index.js");
-console.log("version1");
+console.log("version2 updated");
 
 
 for(let i = 0; i < 100; i++){document.write(`<p>this is what we used to do back in 2018</p> `)};
