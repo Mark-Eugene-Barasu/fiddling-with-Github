@@ -1,4 +1,5 @@
 ## Basic Git Command Cheatsheet
+the results also shown 
 
 ## git init 
 initialize a new repository in your project folder.
