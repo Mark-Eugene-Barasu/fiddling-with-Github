@@ -1,4 +1,4 @@
-## Basic Git Command Cheatsheet
+## Basic Git Command Cheatpage
 the results also shown 
 
 ## git init 
