@@ -4,6 +4,10 @@ the results also shown
 ## git init 
 initialize a new repository in your project folder.
 
+
+## rm -rf .git 
+to remove git folder which tracks every progress
+
 ## git clone <repository_url>
 clone an existing git repository onto your local machine.
 
